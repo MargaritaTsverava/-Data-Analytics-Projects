@@ -11,6 +11,6 @@
 ### Используемые инструменты и методы:
 * библиотеки: pandas, matplotlib.pyplot, datetime, seaborn
 * обзор данных: info(), head(), describe()
-* предобработка данных: to_datetime, value_counts(), sort_index(), fillna(), isna(), dropna(), astype()
+* предобработка данных: to_datetime, value_counts(), sort_index(), sort_values(), fillna(), isna(), dropna(), astype()
 * анализ данных: groupby(), pivot_table(), corr(), query()
 * построение графиков: scatter_matrix(), plot(), barplot(), hist()
