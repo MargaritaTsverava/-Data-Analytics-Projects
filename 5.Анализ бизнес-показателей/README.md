@@ -9,4 +9,7 @@
 Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным.
 
 ### Используемые инструменты и методы:
-
+* библиотеки: pandas, numpy, datetime, matplotlib
+* обзор данных: info(), head(), describe()
+* предобработка и анализ данных: str.lower(), to_datetime(), duplicated(), groupby(), sort_values(), astype(), fillna(), pivot_table()
+* построение графиков: plot()
