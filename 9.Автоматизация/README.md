@@ -9,4 +9,4 @@
 * выгрузка данных: sql
 * изучение общей информации о данных: head()
 
-Подготовлены [дашборд](https://public.tableau.com/app/profile/margarita7955/viz/_-_16611871807570/__) и презентация для целей автоматизации работы менеджеров.
+Подготовлены [дашборд](https://public.tableau.com/app/profile/margarita7955/viz/_-_16611871807570/__) и презентация [презентация](https://drive.google.com/file/d/1Koum0zkeZHVOUs9GCNLYdcQ8aJcbnxb0/view?usp=sharing) для целей автоматизации работы менеджеров.
